@@ -20,6 +20,7 @@ const Main = styled.main`
   padding-bottom: 200px;
 `
 
+
 // Appel "const" About avec les éléments de la page (header,main,picture,dropdown,collapses,footer)
 
 const Contact = () => {
